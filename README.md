@@ -17,7 +17,9 @@
   Contribution Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/froxyop-glitch/froxyop-glitch/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+ <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=froxyop-glitch&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" width="100%" />
+</div>
 </div>
 
 <br/>
