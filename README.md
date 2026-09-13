@@ -16,9 +16,8 @@
 
   Contribution Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=froxyop-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
 </div>
-
 <br/>
 
 ## 👨‍💻 About Me
