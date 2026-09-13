@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://subhadip-sengupta.vercel.app/" target="_blank">
+<a href="https://froxy-portfolio.vercel.app/" target="_blank">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:47A248,33:303030,66:61DAFB,100:339933&height=200&section=header&text=Subhadip%20Sengupta&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cyber%20Security%20%7C%20Web%20Developer&descAlignY=55&descSize=18&descColor=FFFFFF" title="Click to visit my portfolio" />
 </a>
   
@@ -7,7 +7,7 @@
 
 <br/>
 <a href="https://subhadip-sengupta.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-subhadip-sengupta.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-https://froxy-portfolio.vercel.app/-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=froxyop-glitch&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 </div>
