@@ -7,7 +7,7 @@
 
 <br/>
 <a href="https://subhadip-sengupta.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-e--websolutions.netlify.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-subhadip-sengupta.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=froxyop-glitch&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 </div>
