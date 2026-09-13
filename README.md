@@ -16,9 +16,13 @@
 
   Contribution Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akash123/akash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AKKash123/AKKash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  </picture>
 </div>
-<br/>
+
 
 ## 👨‍💻 About Me
 Software engineer and student developer with a strong focus on full-stack development, cyber security, and modern web applications. I build clean, production-ready web platforms, explore secure coding architectures, and run freelance projects end to end.
