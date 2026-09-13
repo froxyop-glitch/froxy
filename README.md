@@ -75,7 +75,7 @@ Software engineer and student developer with a strong focus on full-stack develo
 |:---|:---|:---|:---:|
 | 🌐 **Mishtryplaylist** | Main web development portfolio & services hub | Next.js, Tailwind CSS | [View](https://mishtryplaylist.netlify.app/) |
 | ☁️ **e-commerce** | Record management portal for local governance | Next.js, Supabase, Tailwind | [View](https://mishti-mukh.vercel.app/) |
-| 🏛️ **CivicLens AI** | Public infrastructure issue reporting platform | Python, Computer Vision, Next.js | [View](https://github.com/froxyop-glitch) |
+| 🏛️ **project** | Public infrastructure issue reporting platform | Python, Computer Vision, Next.js | [View](https://easy-nodle.vercel.app/) |
 | 🏏 **Cricket Academy Website** | Academy operations platform with complete booking & info | Django, Tailwind CSS | [View](https://github.com/froxyop-glitch) |
 
 </div>
