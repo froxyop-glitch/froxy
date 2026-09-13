@@ -15,11 +15,8 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
   Contribution Journey
-
 <div align="center">
- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=froxyop-glitch&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" width="100%" />
-</div>
 </div>
 
 <br/>
