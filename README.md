@@ -16,7 +16,7 @@
 
   Contribution Journey
 <div align="center">
-  <img src="https://raw.githubusercontent.com/froxyop-glitch/froxy/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  <img src="https://raw.githubusercontent.com/akash123/akash123/gh-pages/github-contribution-grid-snake.svg" alt="snake contribution animation" />
 </div>
 <br/>
 
