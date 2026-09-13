@@ -73,7 +73,7 @@ Software engineer and student developer with a strong focus on full-stack develo
 
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---:|
-| 🌐 **E-WebSolutions Portfolio** | Main web development portfolio & services hub | Next.js, Tailwind CSS | [View](https://e-websolutions.netlify.app/) |
+| 🌐 **E-WebSolutions Portfolio** | Main web development portfolio & services hub | Next.js, Tailwind CSS | [View](subhadip-sengupta.vercel.app/) |
 | ☁️ **Gram Panchayat Cloud Record** | Record management portal for local governance | Next.js, Supabase, Tailwind | [View](https://github.com/froxyop-glitch) |
 | 🏛️ **CivicLens AI** | Public infrastructure issue reporting platform | Python, Computer Vision, Next.js | [View](https://github.com/froxyop-glitch) |
 | 🏏 **Cricket Academy Website** | Academy operations platform with complete booking & info | Django, Tailwind CSS | [View](https://github.com/froxyop-glitch) |
