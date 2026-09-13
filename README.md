@@ -16,7 +16,7 @@
 
   Contribution Journey
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=froxyop-glitch&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=froxyop-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br/>
