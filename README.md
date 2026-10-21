@@ -1,4 +1,4 @@
-<div align="center">
+# froxyop-glitch@github
 
 ```text
                            ..:jjjjjx;__.:::.
@@ -14,7 +14,9 @@
                     |o@opo@oooxxooo@@@oxxxoo@ogo/,
                     |@oooo@@@@@@@@@@@@@@@@@@@@@@@|
                     |@@o@oo@@@@o@oUQo@Q@@@@@@@oo@|
-                     /Q@oxoooooo$wxxxxoQooooooo@\
+                     /Q@oxoooooo$wxxxxoQooooooo@\`
+                       -+xoooouxooooo@ooxxooom-\
+                         |xoooo@@oUU$$o@@ooo\\
                           xxxxxxooxooo@ooooa`
                           |oujjjjjjjjjxxxoo|
                         . |ooou__:::::|ugo@|
@@ -53,3 +55,5 @@
    ::::::::::::::::ioooooooooooooooxwnf+':    :'-^^--'::::: :   ::
    :::::::::::::::|xxxxxxxxv==^--::::::::::::      : :::  ::  :::
    ::: :::::::::::'--'':      :::::::::::::::::::::::: ::::::: ::
+```
+
