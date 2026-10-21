@@ -14,7 +14,7 @@
                     |o@opo@oooxxooo@@@oxxxoo@ogo/,
                     |@oooo@@@@@@@@@@@@@@@@@@@@@@@|
                     |@@o@oo@@@@o@oUQo@Q@@@@@@@oo@|
-                     /Q@oxoooooo$wxxxxoQooooooo@\` -+xoooouxooooo@ooxxooom-\ \vert{}xoooo@@oUU$$o@@ooo\\
+                     /Q@oxoooooo$wxxxxoQooooooo@\
                           xxxxxxooxooo@ooooa`
                           |oujjjjjjjjjxxxoo|
                         . |ooou__:::::|ugo@|
