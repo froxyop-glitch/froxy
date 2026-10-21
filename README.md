@@ -18,7 +18,12 @@
   
   <p align="center">
 
-<img src="ascii.png" width="260" alt="ascii art" />
+<div style="width: 300px; height: 200px; overflow: auto; background: #0f172a; color: #38bdf8; font-family: monospace; font-size: 7px; padding: 10px; border-radius: 8px;">
+  <pre>
+YOUR ASCII ART HERE
+  </pre>
+</div>
+
 
  <p>
 
